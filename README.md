@@ -5,4 +5,4 @@
 - [Repozytorium 2](https://github.com/trzye/SDZDP) - Aplikacja wspierająca rozworzenie przesyłek na podstawie zadanych miast i paczek.
 - [Repozytorium 3](https://github.com/ShivaniMalviya44/Courier-Management-System) - System zarządzania przesyłkami kurierskimi
 - [Repozytorium 4](https://github.com/lahirudsilva/Deliver-it-web) - System do zarządzania dostawami paczek
-- [Repozytorium 5](https://github.com/azaynul10/inventory-management-system) - aplikacja do śledzenia spiżarni zaprojektowana, aby pomóc gospodarstwom domowym w efektywnym zarządzaniu i śledzeniu zapasów żywności
+- [Repozytorium 5](https://github.com/azaynul10/inventory-management-system) - Aplikacja do śledzenia spiżarni zaprojektowana, aby pomóc gospodarstwom domowym w efektywnym zarządzaniu i śledzeniu zapasów żywności
