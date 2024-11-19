@@ -1,4 +1,4 @@
-# Zarzadzanie_dostawami_amunicji-_i_zywnosci
+# Zarządzanie dostawami amunicji i żywności
 # Kolekcja przydatnych repozytoriów
 
 - [Repozytorium 1](https://github.com/bronco-one/manager_dostaw) - Aplikacja pomagająca zarządzać dostawami w hurtowni.
