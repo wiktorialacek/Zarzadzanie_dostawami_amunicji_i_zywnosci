@@ -212,8 +212,4 @@ Na każdym etapie procesu transportowego system będzie generował szczegółowe
 - **Optymalizację tras dostaw**: Algorytmy, które będą dobierały najdogodniejsze trasy dla pojazdów transportowych.
 - **Śledzenie pojazdów w czasie rzeczywistym**: Integracja z systemem GPS umożliwi monitorowanie transportów i przewidywanie czasu przybycia.
 
----
 
-### Podsumowanie
-
-Wszystkie powyższe wymagania funkcjonalne mają na celu zapewnienie efektywnego zarządzania dostawami amunicji i żywności. Dzięki integracji z systemami ERP, monitorowaniu zapasów, optymalizacji tras transportowych oraz kompleksowym raportom logistycznym, system będzie w stanie zapewnić ciągłość operacji wojskowych, minimalizować opóźnienia oraz koszty, a także zapewnić pełną przejrzystość procesów logistycznych.
