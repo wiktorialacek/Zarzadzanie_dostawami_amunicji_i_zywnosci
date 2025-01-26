@@ -288,6 +288,18 @@ Tabela przedstawia potencjalne ryzyka związane z realizacją projektu logistycz
 ## Część 5: Budżet projektu
 Szczegółowy budżet zostanie przygotowany w dalszej fazie.
 
+| **Kategoria**                 | **Koszt (zł)** | **Procent** |
+|-------------------------------|----------------|-------------|
+| Koszty pracowników            | 130,265.73     | 5%          |
+| Koszty wyposażenia            | 521,062.92     | 20%         |
+| Koszty podzespołów            | 260,531.46     | 10%         |
+| Koszty zakupionych danych     | 130,265.73     | 5%          |
+| Koszty usług zewnętrznych     | 260,531.46     | 10%         |
+| Koszty testów                 | 130,265.73     | 5%          |
+| Koszty zarządzania            | 60,531.46      | 2.3%        |
+| Koszty zarządzania projektem  | 260,531.46     | 10%         |
+| Rezerwa na ryzyko             | 390,797.19     | 15%         |
+| **Razem**                     | **2,605,314.60** | **100%**    |
 ---
 
 ## Część 6: Opis produktów projektu
