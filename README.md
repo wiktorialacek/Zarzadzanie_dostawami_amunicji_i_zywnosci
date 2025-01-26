@@ -1,4 +1,5 @@
 # Zarządzanie dostawami amunicji i żywności
+# Wymagania dla najciekawszych artefaktów
 ## Wymagania Wydajnościowe
 
 W kontekście projektu "Zarządzanie Dostawami Amunicji i Żywności", wydajność stanowi kluczowy element wpływający na efektywność całego systemu. W szczególności skupiamy się na optymalizacji czasu dostawy, minimalizacji czasu transportu oraz zwiększeniu efektywności transportu. Odpowiednia realizacja tych wymagań pozwoli na usprawnienie procesów logistycznych, co w kontekście wojskowych operacji dostaw jest niezbędne dla zapewnienia bezpieczeństwa i gotowości jednostek bojowych.
